@@ -1,0 +1,36 @@
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\motDet.exe
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\motDet.pdb
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.Imaging.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.Video.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.Math.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.Imaging.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.Video.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Release\AForge.Math.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Release\motDet.Form1.resources
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Release\motDet.Properties.Resources.resources
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Release\motDet.csproj.GenerateResource.Cache
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Release\motDet.exe
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Release\motDet.pdb
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\motDet.exe
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\motDet.pdb
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.Imaging.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.Video.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.Math.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.Imaging.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.Video.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Release\AForge.Math.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Release\motDet.csprojResolveAssemblyReference.cache
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Release\motDet.Form1.resources
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Release\motDet.Properties.Resources.resources
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Release\motDet.csproj.GenerateResource.Cache
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Release\motDet.exe
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Release\motDet.pdb
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Release\motDet.programSettings.resources

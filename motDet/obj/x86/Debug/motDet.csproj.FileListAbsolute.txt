@@ -1,0 +1,52 @@
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\motDet.exe
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\motDet.pdb
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.Imaging.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.Video.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.Math.dll
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.Imaging.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.Video.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\bin\Debug\AForge.Math.xml
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Debug\motDet.csprojResolveAssemblyReference.cache
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Debug\motDet.Form1.resources
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Debug\motDet.Properties.Resources.resources
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Debug\motDet.csproj.GenerateResource.Cache
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Debug\motDet.exe
+C:\Users\Keaton\AppData\Local\Temporary Projects\motDet\obj\x86\Debug\motDet.pdb
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Debug\motDet.exe
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Debug\motDet.pdb
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\motDet.exe
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\motDet.pdb
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.Imaging.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.Video.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.Math.dll
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.Imaging.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.Video.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\bin\Debug\AForge.Math.xml
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Debug\motDet.csprojResolveAssemblyReference.cache
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Debug\motDet.Form1.resources
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Debug\motDet.Properties.Resources.resources
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Debug\motDet.csproj.GenerateResource.Cache
+C:\Users\Keaton\Desktop\proj\motDet\motDet\obj\x86\Debug\motDet.programSettings.resources
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\obj\x86\Debug\motDet.exe
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\obj\x86\Debug\motDet.pdb
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\bin\Debug\motDet.exe
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\bin\Debug\motDet.pdb
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\bin\Debug\AForge.Math.dll
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\bin\Debug\AForge.xml
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\bin\Debug\AForge.Imaging.xml
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\bin\Debug\AForge.Video.xml
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\bin\Debug\AForge.Math.xml
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\obj\x86\Debug\motDet.csprojResolveAssemblyReference.cache
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\obj\x86\Debug\motDet.Form1.resources
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\obj\x86\Debug\motDet.programSettings.resources
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\obj\x86\Debug\motDet.Properties.Resources.resources
+C:\Users\Keaton\Desktop\TO Laptop\motDet\motDet\obj\x86\Debug\motDet.csproj.GenerateResource.Cache
